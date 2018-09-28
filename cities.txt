@@ -1,0 +1,956 @@
+Hengshui, China
+Hengyang, China
+Hepingjie, China
+Hepo, China
+Heyuan, China
+Heze, China
+Hohhot, China
+Honggang, China
+Hongjiang, China
+Hongqiao, China
+Hotan, China
+Huadian, China
+Huai'an, China
+Huai'an, China
+Huaibei, China
+Huaicheng, China
+Huaidian, China
+Huaihua, China
+Huainan, China
+Huaiyuan Chengguanzhen, China
+Huanan, China
+Huanggang, China
+Huangmei, China
+Huangnihe, China
+Huangpi, China
+Huangshan, China
+Huangshi, China
+Huangyan, China
+Huangzhou, China
+Huanren, China
+Huayin, China
+Huazhou, China
+Huazhou, China
+Huicheng, China
+Huilong, China
+Huinan, China
+Huizhou, China
+Hulan, China
+Hulan Ergi, China
+Humen, China
+Hunchun, China
+Huocheng, China
+Huoqiu Chengguanzhen, China
+Hushitai, China
+Hutang, China
+Huzhou, China
+Jalai Nur, China
+Ji'an, China
+Jiagedaqi, China
+Jiamusi, China
+Jian'ou, China
+Jiangkou, China
+Jiangmen, China
+Jianguang, China
+Jiangyan, China
+Jiangyin, China
+Jiangyou, China
+Jiaojiangcun, China
+Jiaozhou, China
+Jiaozuo, China
+Jiashan, China
+Jiaxing, China
+Jiayuguan, China
+Jiazi, China
+Jidong, China
+Jiehu, China
+Jieshi, China
+Jieshou, China
+Jiexiu, China
+Jieyang, China
+Jijiang, China
+Jilin, China
+Jimo, China
+Jinan, China
+Jinchang, China
+Jincheng, China
+Jingdezhen, China
+Jinghong, China
+Jingling, China
+Jingmen, China
+Jingzhou, China
+Jinhua, China
+Jining, China
+Jining, China
+Jinji, China
+Jinjiang, China
+Jinjiang, China
+Jinsha, China
+Jinshi, China
+Jinxiangzhen, China
+Jinzhou, China
+Jinzhou, China
+Jishu, China
+Jishui, China
+Jiujiang, China
+Jiupu, China
+Jiuquan, China
+Jiutai, China
+Jixi, China
+Juegang, China
+Juye, China
+Kaifeng, China
+Kaihua, China
+Kaitong, China
+Kaiyuan, China
+Kaiyuan, China
+Kangding, China
+Karamay, China
+Kashgar, China
+Korla, China
+Kuandian, China
+Kunming, China
+Kunshan, China
+Kunyang, China
+Kuqa, China
+Laibin, China
+Laiwu, China
+Laixi, China
+Laiyang, China
+Laizhou, China
+Langfang, China
+Langtou, China
+Langxiang, China
+Langzhong, China
+Lanxi, China
+Lanxi, China
+Lanzhou, China
+Laohekou, China
+Laojunmiao, China
+Lecheng, China
+Leiyang, China
+Lengshuijiang, China
+Lengshuitan, China
+Leshan, China
+Lhasa, China
+Lianghu, China
+Liangxiang, China
+Lianhe, China
+Lianjiang, China
+Lianran, China
+Lianshan, China
+Lianyuan, China
+Lianzhou, China
+Lianzhou, China
+Liaocheng, China
+Liaoyang, China
+Liaoyuan, China
+Liaozhong, China
+Licheng, China
+Licheng, China
+Lichuan, China
+Lijiang, China
+Lincheng, China
+Linfen, China
+Lingcheng, China
+Lingdong, China
+Linghai, China
+Lingyuan, China
+Linhai, China
+Linjiang, China
+Linkou, China
+Linping, China
+Linqiong, China
+Linqu, China
+Linshui, China
+Lintong, China
+Linxi, China
+Linxia Chengguanzhen, China
+Linyi, China
+Lishu, China
+Lishui, China
+Liuhe, China
+Liupanshui, China
+Longfeng, China
+Longgang, China
+Longjiang, China
+Longjing, China
+Longquan, China
+Loudi, China
+Loushanguan, China
+Luancheng, China
+Lubu, China
+Lucheng, China
+Luocheng, China
+Luohe, China
+Luorong, China
+Luoyang, China
+Luoyang, China
+Luoyang, China
+Luqiao, China
+Lushun, China
+Maba, China
+Mabai, China
+Macheng, China
+Majie, China
+Manzhouli, China
+Meihekou, China
+Meizhou, China
+Mengcheng Chengguanzhen, China
+Mengyin, China
+Mentougou, China
+Mianyang, China
+Minggang, China
+Mingguang, China
+Mingshui, China
+Mingshui, China
+Mingyue, China
+Minzhu, China
+Mishan, China
+Miyang, China
+Mizhou, China
+Mudanjiang, China
+Mudu, China
+Mujiayingzi, China
+Nanchang, China
+Nanchong, China
+Nanding, China
+Nandu, China
+Nanfeng, China
+Nangong, China
+Nanjing, China
+Nanlong, China
+Nanma, China
+Nanning, China
+Nanpiao, China
+Nanping, China
+Nantai, China
+Nantong, China
+Nanyang, China
+Nanzhang Chengguanzhen, China
+Nanzhou, China
+Nehe, China
+Neijiang, China
+Nenjiang, China
+Nianzishan, China
+Ningbo, China
+Ningde, China
+Ninghai, China
+Ninghai, China
+Ningyang, China
+Ordos, China
+Oroqen Zizhiqi, China
+Panshan, China
+Panshi, China
+Pengcheng, China
+Pingdingshan, China
+Pingdu, China
+Pingliang, China
+Pingnan, China
+Pingshan, China
+Pingxiang, China
+Pingyi, China
+Pingyin, China
+Pingzhuang, China
+Pizhou, China
+Poyang, China
+Pucheng, China
+Pulandian, China
+Pumiao, China
+Puning, China
+Puqi, China
+Putian, China
+Puyang, China
+Puyang Chengguanzhen, China
+Qamdo, China
+Qapqal, China
+Qianjiang, China
+Qianzhou, China
+Qingdao, China
+Qinggang, China
+Qingnian, China
+Qingquan, China
+Qingyang, China
+Qingyuan, China
+Qingzhou, China
+Qinhuangdao, China
+Qinnan, China
+Qinzhou, China
+Qionghai, China
+Qionghu, China
+Qiongshan, China
+Qiqihar, China
+Quanzhou, China
+Qufu, China
+Qujing, China
+Quzhou, China
+Renqiu, China
+Rikaze, China
+Rizhao, China
+Runing, China
+Salaqi, China
+Sanchazi, China
+Sanming, China
+Sanshui, China
+Sanya, China
+Shache, China
+Shahecheng, China
+Shancheng, China
+Shanghai, China
+Shangmei, China
+Shangqiu, China
+Shangrao, China
+Shangri-La, China
+Shangyu, China
+Shangzhi, China
+Shanhaiguan, China
+Shanhecun, China
+Shanting, China
+Shantou, China
+Shanwei, China
+Shaoguan, China
+Shaowu, China
+Shaoxing, China
+Shaping, China
+Shashi, China
+Shengli, China
+Shenjiamen, China
+Shenyang, China
+Shenzhen, China
+Shiguai, China
+Shihezi, China
+Shijiazhuang, China
+Shilin, China
+Shilong, China
+Shima, China
+Shiqi, China
+Shiqiao, China
+Shitanjing, China
+Shiwan, China
+Shixing, China
+Shiyan, China
+Shiyan, China
+Shizilu, China
+Shizuishan, China
+Shouguang, China
+Shuangcheng, China
+Shuangyang, China
+Shuangyashan, China
+Shulan, China
+Shunyi, China
+Siping, China
+Sishui, China
+Songjiang, China
+Songjianghe, China
+Songling, China
+Songling, China
+Songyang, China
+Songyuan, China
+Suicheng, China
+Suihua, China
+Suileng, China
+Suining, China
+Suixi, China
+Suizhou, China
+Sujiatun, China
+Suozhen, China
+Suzhou, China
+Suzhou, China
+Tahe, China
+Tai'an, China
+Taihecun, China
+Taikang, China
+Tailai, China
+Taishan, China
+Taixing, China
+Taiyuan, China
+Taizhou, China
+Tanggu, China
+Tangjiazhuang, China
+Tangping, China
+Tangshan, China
+Tangzhai, China
+Tantou, China
+Taozhuang, China
+Tianchang, China
+Tianfu, China
+Tianjin, China
+Tianpeng, China
+Tianshui, China
+Tieli, China
+Tieling, China
+Tongchuan, China
+Tongchuanshi, China
+Tonghua, China
+Tongliao, China
+Tongren, China
+Tongshan, China
+Tongzhou, China
+Tumen, China
+Turpan, China
+UEruemqi, China
+Ulanhot, China
+Wacheng, China
+Wafangdian, China
+Wangkui, China
+Wangqing, China
+Wanning, China
+Wanxian, China
+Weifang, China
+Weihai, China
+Weinan, China
+Weining, China
+Wenchang, China
+Wenling, China
+Wenshan City, China
+Wenshang, China
+Wenxing, China
+Wenzhou, China
+Wuchang, China
+Wucheng, China
+Wuchuan, China
+Wuda, China
+Wuhai, China
+Wuhan, China
+Wuhu, China
+Wulingyuan, China
+Wusong, China
+Wuwei, China
+Wuxi, China
+Wuxi, China
+Wuxue, China
+Wuyang, China
+Wuzhou, China
+Yakeshi, China
+Yancheng, China
+Yangchun, China
+Yangcun, China
+Yanggu, China
+Yangjiang, China
+Yangliuqing, China
+Yangquan, China
+Yangshuo, China
+Yangzhou, China
+Yanji, China
+Yanjiang, China
+Yanliang, China
+Yanta, China
+Yantai, China
+Yantongshan, China
+Yanzhou, China
+Yashan, China
+Yatou, China
+Yebaishou, China
+Yibin, China
+Yichang, China
+Yicheng, China
+Yicheng, China
+Yichun, China
+Yichun, China
+Yigou, China
+Yilan, China
+Yima, China
+Yinchuan, China
+Yingchuan, China
+Yingkou, China
+Yingshang Chengguanzhen, China
+Yinzhu, China
+Yishui, China
+Yiwu, China
+Yiyang, China
+Yongchuan, China
+Yongfeng, China
+Youhao, China
+Yuanping, China
+Yucheng, China
+Yuci, China
+Yudong, China
+Yueyang, China
+Yulin, China
+Yulinshi, China
+Yuncheng, China
+Yunfu, China
+Yunmeng Chengguanzhen, China
+Yunyang, China
+Yushu, China
+Yutan, China
+Yuxi, China
+Yuxia, China
+Yuyao, China
+Zaoyang, China
+Zaozhuang, China
+Zhalantun, China
+Zhangjiagang, China
+Zhangjiajie, China
+Zhangjiakou, China
+Zhangjiakou Shi Xuanhua Qu, China
+Zhangye, China
+Zhangzhou, China
+Zhanjiang, China
+Zhaobaoshan, China
+Zhaodong, China
+Zhaogezhuang, China
+Zhaoqing, China
+Zhaotong, China
+Zhaoyuan, China
+Zhaoyuan, China
+Zhaozhou, China
+Zhengjiatun, China
+Zhengzhou, China
+Zhenjiang, China
+Zhenlai, China
+Zhenzhou, China
+Zhicheng, China
+Zhicheng, China
+Zhijiang, China
+Zhongshan, China
+Zhongshu, China
+Zhongxiang, China
+Zhongxing, China
+Zhoucheng, China
+Zhoucun, China
+Zhoukou, China
+Zhoushan, China
+Zhu Cheng City, China
+Zhuanghe, China
+Zhuangyuan, China
+Zhuhai, China
+Zhuji, China
+Zhujiajiao, China
+Zhumadian, China
+Zhuzhou, China
+Zibo, China
+Zigong, China
+Zijinglu, China
+Zoucheng, China
+Zunyi, China
+Apartado, Colombia
+Agustin Codazzi, Colombia
+Arauca, Colombia
+Arjona, Colombia
+Armenia, Colombia
+Aguachica, Colombia
+Barrancabermeja, Colombia
+Barranquilla, Colombia
+Bello, Colombia
+Bogota, Colombia
+Bucaramanga, Colombia
+Buenaventura, Colombia
+Buga, Colombia
+Calarca, Colombia
+Caldas, Colombia
+Cali, Colombia
+Cartagena, Colombia
+Cartago, Colombia
+Caucasia, Colombia
+Cerete, Colombia
+Chia, Colombia
+Chinchina, Colombia
+Cienaga, Colombia
+Cucuta, Colombia
+Dos Quebradas, Colombia
+Duitama, Colombia
+El Banco, Colombia
+Envigado, Colombia
+Espinal, Colombia
+Facatativa, Colombia
+Florencia, Colombia
+Floridablanca, Colombia
+Fundacion, Colombia
+Funza, Colombia
+Fusagasuga, Colombia
+Girardot City, Colombia
+Giron, Colombia
+House' s Joe Arroyo, Colombia
+Ibague, Colombia
+Ipiales, Colombia
+Itaguei, Colombia
+La Dorada, Colombia
+Los Patios, Colombia
+Madrid, Colombia
+Magangue, Colombia
+Maicao, Colombia
+Malambo, Colombia
+Manizales, Colombia
+Medellin, Colombia
+Montelibano, Colombia
+Monteria, Colombia
+Neiva, Colombia
+Ocana, Colombia
+Palmira, Colombia
+Pamplona, Colombia
+Pasto, Colombia
+Pereira, Colombia
+Piedecuesta, Colombia
+Pitalito, Colombia
+Popayan, Colombia
+Puerto Tejada, Colombia
+Quibdo, Colombia
+Riohacha, Colombia
+Rionegro, Colombia
+Sabanalarga, Colombia
+Sahagun, Colombia
+San Andres, Colombia
+Santa Marta, Colombia
+Santa Rosa de Cabal, Colombia
+Sincelejo, Colombia
+Soacha, Colombia
+Sogamoso, Colombia
+Soledad, Colombia
+Tulua, Colombia
+Tumaco, Colombia
+Tunja, Colombia
+Turbaco, Colombia
+Turbo, Colombia
+Valledupar, Colombia
+Villa del Rosario, Colombia
+Villavicencio, Colombia
+Yopal, Colombia
+Yumbo, Colombia
+Zipaquira, Colombia
+Limon, Costa Rica
+San Francisco, Costa Rica
+San Jose, Costa Rica
+Osijek, Croatia
+Pula, Croatia
+Rijeka, Croatia
+Sesvete, Croatia
+Slavonski Brod, Croatia
+Split, Croatia
+Zadar, Croatia
+Zagreb, Croatia
+Arroyo Naranjo, Cuba
+Alamar, Cuba
+Artemisa, Cuba
+Arroyo Naranjo, Cuba
+Banes, Cuba
+Bartolome Maso, Cuba
+Bayamo, Cuba
+Boyeros, Cuba
+Camaguey, Cuba
+Cardenas, Cuba
+Centro Habana, Cuba
+Cerro, Cuba
+Ciego de Avila, Cuba
+Cienfuegos, Cuba
+Colon, Cuba
+Consolacion del Sur, Cuba
+Contramaestre, Cuba
+Corralillo, Cuba
+Diez de Octubre, Cuba
+Florida, Cuba
+Guanabacoa, Cuba
+Guantanamo, Cuba
+Gueines, Cuba
+Guira de Melena, Cuba
+Habana del Este, Cuba
+Havana, Cuba
+Holguin, Cuba
+Jaguey Grande, Cuba
+Jesus Menendez, Cuba
+La Habana Vieja, Cuba
+Las Tunas, Cuba
+Manzanillo, Cuba
+Matanzas, Cuba
+Moa, Cuba
+Moron, Cuba
+Nuevitas, Cuba
+Palma Soriano, Cuba
+Pinar del Rio, Cuba
+Placetas, Cuba
+Puerto Padre, Cuba
+Sagua la Grande, Cuba
+San Cristobal, Cuba
+San Jose de las Lajas, Cuba
+San Luis, Cuba
+San Miguel del Padron, Cuba
+Sancti Spiritus, Cuba
+Santa Clara, Cuba
+Santiago de Cuba, Cuba
+Trinidad, Cuba
+Willemstad, CuraÃ§ao
+Larnaca, Cyprus
+Limassol, Cyprus
+Nicosia, Cyprus
+Brno, Czech Republic
+Ceske Budejovice, Czech Republic
+Chomutov, Czech Republic
+Decin, Czech Republic
+Frydek-Mistek, Czech Republic
+Havirov, Czech Republic
+Hradec Kralove, Czech Republic
+Jihlava, Czech Republic
+Karlovy Vary, Czech Republic
+Karvina, Czech Republic
+Kladno, Czech Republic
+Liberec, Czech Republic
+Most, Czech Republic
+Olomouc, Czech Republic
+Opava, Czech Republic
+Ostrava, Czech Republic
+Pardubice, Czech Republic
+Pilsen, Czech Republic
+Prague, Czech Republic
+Teplice, Czech Republic
+Usti nad Labem, Czech Republic
+Zlin, Czech Republic
+Arhus, Denmark
+Aalborg, Denmark
+Copenhagen, Denmark
+Recife, Brazil
+Resende, Brazil
+Ribeirao das Neves, Brazil
+Ribeirao Pires, Brazil
+Ribeirao Preto, Brazil
+Rio Branco, Brazil
+Rio Claro, Brazil
+Rio das Ostras, Brazil
+Rio de Janeiro, Brazil
+Rio do Sul, Brazil
+Rio Grande, Brazil
+Rio Largo, Brazil
+Rolandia, Brazil
+Rondonopolis, Brazil
+Salto, Brazil
+Salvador, Brazil
+Santa Barbara d'Oeste, Brazil
+Santa Cruz do Capibaribe, Brazil
+Santa Cruz do Sul, Brazil
+Santa Ines, Brazil
+Santa Luzia, Brazil
+Santa Maria, Brazil
+Santa Rita, Brazil
+Santa Rosa, Brazil
+Santana, Brazil
+Santana de Parnaiba, Brazil
+Santana do Livramento, Brazil
+Santarem, Brazil
+Santo Andre, Brazil
+Santo Angelo, Brazil
+Santo Antonio de Jesus, Brazil
+Santos, Brazil
+Sao Bento do Sul, Brazil
+Sao Bernardo do Campo, Brazil
+Sao Borja, Brazil
+Sao Caetano do Sul, Brazil
+Sao Carlos, Brazil
+Sao Cristovao, Brazil
+Sao Gabriel, Brazil
+Sao Joao da Boa Vista, Brazil
+Sao Joao de Meriti, Brazil
+Sao Joao del Rei, Brazil
+Sao Jose, Brazil
+Sao Jose do Rio Preto, Brazil
+Sao Jose dos Campos, Brazil
+Sao Jose dos Pinhais, Brazil
+Sao Leopoldo, Brazil
+Sao Lourenco da Mata, Brazil
+Sao Luis, Brazil
+Sao Mateus, Brazil
+Sao Paulo, Brazil
+Sao Pedro da Aldeia, Brazil
+Sao Roque, Brazil
+Sao Sebastiao, Brazil
+Sao Sebastiao do Paraiso, Brazil
+Sao Vicente, Brazil
+Sapiranga, Brazil
+Sapucaia, Brazil
+Saquarema, Brazil
+Sarandi, Brazil
+Senador Canedo, Brazil
+Seropedica, Brazil
+Serra, Brazil
+Serra Talhada, Brazil
+Sertaozinho, Brazil
+Sete Lagoas, Brazil
+Simoes Filho, Brazil
+Sinop, Brazil
+Sobral, Brazil
+Sorocaba, Brazil
+Sumare, Brazil
+Suzano, Brazil
+Taboao da Serra, Brazil
+Taquaritinga, Brazil
+Tatui, Brazil
+Taubate, Brazil
+Telemaco Borba, Brazil
+Teofilo Otoni, Brazil
+Teresina, Brazil
+Teresopolis, Brazil
+Timon, Brazil
+Timoteo, Brazil
+Toledo, Brazil
+Tres Coracoes, Brazil
+Tres Lagoas, Brazil
+Tres Rios, Brazil
+Trindade, Brazil
+Tubarao, Brazil
+Tucurui, Brazil
+Tupa, Brazil
+Uba, Brazil
+Ubatuba, Brazil
+Uberaba, Brazil
+Uberlandia, Brazil
+Umuarama, Brazil
+Unai, Brazil
+Uruguaiana, Brazil
+Vacaria, Brazil
+Valenca, Brazil
+Valenca, Brazil
+Valinhos, Brazil
+Varginha, Brazil
+Varzea Grande, Brazil
+Varzea Paulista, Brazil
+Vespasiano, Brazil
+Viamao, Brazil
+Viana, Brazil
+Vicosa, Brazil
+Vila Velha, Brazil
+Vilhena, Brazil
+Vinhedo, Brazil
+Vitoria, Brazil
+Vitoria da Conquista, Brazil
+Vitoria de Santo Antao, Brazil
+Volta Redonda, Brazil
+Votorantim, Brazil
+Votuporanga, Brazil
+Bandar Seri Begawan, Brunei
+Asenovgrad, Bulgaria
+Blagoevgrad, Bulgaria
+Burgas, Bulgaria
+Dobrich, Bulgaria
+Gabrovo, Bulgaria
+Haskovo, Bulgaria
+Kardzhali, Bulgaria
+Kazanlak, Bulgaria
+Pazardzhik, Bulgaria
+Pernik, Bulgaria
+Pleven, Bulgaria
+Plovdiv, Bulgaria
+Ruse, Bulgaria
+Shumen, Bulgaria
+Sliven, Bulgaria
+Sofia, Bulgaria
+Stara Zagora, Bulgaria
+Varna, Bulgaria
+Veliko Turnovo, Bulgaria
+Vidin, Bulgaria
+Vratsa, Bulgaria
+Yambol, Bulgaria
+Banfora, Burkina Faso
+Bobo-Dioulasso, Burkina Faso
+Koudougou, Burkina Faso
+Ouagadougou, Burkina Faso
+Ouahigouya, Burkina Faso
+Bujumbura, Burundi
+Muyinga, Burundi
+Battambang, Cambodia
+Kampong Cham, Cambodia
+Kampong Chhnang, Cambodia
+Paoy Paet, Cambodia
+Phnom Penh, Cambodia
+Pursat, Cambodia
+Siem Reap, Cambodia
+Sihanoukville, Cambodia
+Ta Khmau, Cambodia
+Takeo, Cambodia
+Bafang, Cameroon
+Bafia, Cameroon
+Bafoussam, Cameroon
+Bali, Cameroon
+Bamenda, Cameroon
+Bangangte, Cameroon
+Bertoua, Cameroon
+Douala, Cameroon
+Dschang, Cameroon
+Ebolowa, Cameroon
+Edea, Cameroon
+Foumban, Cameroon
+Foumbot, Cameroon
+Garoua, Cameroon
+Guider, Cameroon
+Kousseri, Cameroon
+Kribi, Cameroon
+Kumba, Cameroon
+Kumbo, Cameroon
+Limbe, Cameroon
+Loum, Cameroon
+Maroua, Cameroon
+Mbalmayo, Cameroon
+Mbouda, Cameroon
+Meiganga, Cameroon
+Mokolo, Cameroon
+Mora, Cameroon
+Ngaoundere, Cameroon
+Nkongsamba, Cameroon
+Nkoteng, Cameroon
+Sangmelima, Cameroon
+Tiko, Cameroon
+Wum, Cameroon
+Yagoua, Cameroon
+Yaounde, Cameroon
+Anmore, Canada
+Abbotsford, Canada
+Ajax, Canada
+Barrie, Canada
+Brampton, Canada
+Brantford, Canada
+Brossard, Canada
+Burlington, Canada
+Burnaby, Canada
+Calgary, Canada
+Cambridge, Canada
+Chilliwack, Canada
+Coquitlam, Canada
+Dartmouth, Canada
+Delta, Canada
+Drummondville, Canada
+East York, Canada
+Edmonton, Canada
+Etobicoke, Canada
+Fort McMurray, Canada
+Fredericton, Canada
+Gatineau, Canada
+Granby, Canada
+Greater Sudbury, Canada
+Guelph, Canada
+Halifax, Canada
+Hamilton, Canada
+Jonquiere, Canada
+Kamloops, Canada
+Kelowna, Canada
+Kingston, Canada
+Kitchener, Canada
+Ladner, Canada
+Langley, Canada
+Laval, Canada
+Lethbridge, Canada
+Levis, Canada
+London, Canada
+Longueuil, Canada
+Maple Ridge, Canada
+Markham, Canada
+Medicine Hat, Canada
+Milton, Canada
+Mississauga, Canada
+Moncton, Canada
+Montreal, Canada
+Nanaimo, Canada
+Nepean, Canada
+New Westminster, Canada
+Newmarket, Canada
+Niagara Falls, Canada
+Norfolk County, Canada
+North Bay, Canada
+North York, Canada
+Notre-Dame-de-Grace, Canada
+Oakville, Canada
+Okanagan, Canada
+Oshawa, Canada
+Ottawa, Canada
+Peterborough, Canada
+Pickering, Canada
+Prince George, Canada
+Quebec, Canada
+Red Deer, Canada
+Regina, Canada
