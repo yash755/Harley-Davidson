@@ -62,6 +62,10 @@ def get_list(row):
 										x.append(str(contact['postalCode']))
 									else:
 										x.append('')
+									if 'email' in contact:
+										x.append(str(contact['email']))
+									else:
+										x.append('')
 
 								if 'website' in deal:
 									x.append(deal['website'])
@@ -89,14 +93,11 @@ def get_list(row):
 		
 
 if __name__ == '__main__':
-	# ifile = open('final1.csv', "r")
-	# reader = csv.reader(ifile)
+	ifile = open('final1.csv', "r")
+	reader = csv.reader(ifile)
 
-	# i= 0 
-	# for row in reader:
-	# 	get_list(row)
+	i= 0 
+	for row in reader:
+		get_list(row)
 
-	# ifile.close()
-
-	row = ["Logan City, Australia","-36.621429,143.491653"]
-	get_list(row)
+	ifile.close()
