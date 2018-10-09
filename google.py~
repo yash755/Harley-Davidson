@@ -1,0 +1,61 @@
+import requests
+import json
+from bs4 import BeautifulSoup
+from selenium import webdriver
+from selenium.webdriver.common.by import By
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
+import time
+import csv
+import random
+
+
+def get_list(city):
+
+	try:
+
+		url = "https://maps.googleapis.com/maps/api/geocode/json?address=" + str(city) + "&key=AIzaSyDsKHTL3ZehVgAy3eMzaE-m_EgU4H5sAl4"
+		print (url)
+		response = requests.get(url)
+		json_data = json.loads(response.text)
+		
+
+		if 'results' in json_data:
+			result_array = json_data['results']
+			if len(result_array) > 0:
+				result = result_array[0]
+				if 'geometry' in result:
+					bounds = result['geometry']
+					if 'location' in bounds:
+						location = bounds['location']
+						html = ''
+						if 'lat' in location:
+							html = html + str(location['lat']) + ','
+						if 'lng' in location:
+							html = html + str(location['lng'])
+
+						final_list = []
+						x = []
+						x.append(city)
+						x.append(html)
+						final_list.append(x)
+						print (final_list)
+						filename = "final1.csv"
+						with open(filename, 'a+') as csvfile:
+							csvwriter = csv.writer(csvfile) 
+							csvwriter.writerows(final_list)
+
+
+
+	except Exception as e:
+		print(e)
+		get_list(city)
+
+		
+
+if __name__ == '__main__':
+	cities = open('cities.txt','r')
+	for city in cities:
+		city = city.replace('\n','')
+		get_list(str(city))
+	

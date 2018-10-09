@@ -165,7 +165,7 @@
             "alpha3": "IOT"
         },
         {
-            "country": "Brunei Darussalam",
+            "country": "Brunei",
             "alpha2": "BN",
             "alpha3": "BRN"
         },
@@ -185,7 +185,7 @@
             "alpha3": "BDI"
         },
         {
-            "country": "Cabo Verde",
+            "country": "Cape Verde",
             "alpha2": "CV",
             "alpha3": "CPV"
         },
@@ -250,12 +250,12 @@
             "alpha3": "COM"
         },
         {
-            "country": "Congo",
+            "country": "Republic of the Congo",
             "alpha2": "CG",
             "alpha3": "COG"
         },
         {
-            "country": "Congo",
+            "country": "DR Congo",
             "alpha2": "CD",
             "alpha3": "COD"
         },
@@ -285,7 +285,7 @@
             "alpha3": "CUB"
         },
         {
-            "country": "Curaçao",
+            "country": "CuraÃ§ao",
             "alpha2": "CW",
             "alpha3": "CUW"
         },
@@ -520,7 +520,7 @@
             "alpha3": "IDN"
         },
         {
-            "country": "Islamic Republic of Iran",
+            "country": "Iran",
             "alpha2": "IR",
             "alpha3": "IRN"
         },
@@ -585,12 +585,12 @@
             "alpha3": "KIR"
         },
         {
-            "country": "Democratic People's Republic of Korea",
+            "country": "North Korea",
             "alpha2": "KP",
             "alpha3": "PRK"
         },
         {
-            "country": "Republic of Korea",
+            "country": "South Korea",
             "alpha2": "KR",
             "alpha3": "KOR"
         },
@@ -605,7 +605,7 @@
             "alpha3": "KGZ"
         },
         {
-            "country": "Lao People's Democratic Republic",
+            "country": "Laos",
             "alpha2": "LA",
             "alpha3": "LAO"
         },
@@ -650,7 +650,7 @@
             "alpha3": "LUX"
         },
         {
-            "country": "Macao",
+            "country": "Macau",
             "alpha2": "MO",
             "alpha3": "MAC"
         },
@@ -725,7 +725,7 @@
             "alpha3": "FSM"
         },
         {
-            "country": "Republic of Moldova",
+            "country": "Moldova",
             "alpha2": "MD",
             "alpha3": "MDA"
         },
@@ -790,7 +790,7 @@
             "alpha3": "NCL"
         },
         {
-            "country": "New Zealand",
+            "country": "NewZealand",
             "alpha2": "NZ",
             "alpha3": "NZL"
         },
@@ -845,7 +845,7 @@
             "alpha3": "PLW"
         },
         {
-            "country": "State of Palestine",
+            "country": "Palestine",
             "alpha2": "PS",
             "alpha3": "PSE"
         },
@@ -900,7 +900,7 @@
             "alpha3": "QAT"
         },
         {
-            "country": "Réunion",
+            "country": "Reunion",
             "alpha2": "RE",
             "alpha3": "REU"
         },
@@ -910,7 +910,7 @@
             "alpha3": "ROU"
         },
         {
-            "country": "Russian Federation",
+            "country": "Russia",
             "alpha2": "RU",
             "alpha3": "RUS"
         },
@@ -1080,12 +1080,12 @@
             "alpha3": "CHE"
         },
         {
-            "country": "Syrian Arab Republic",
+            "country": "Syria",
             "alpha2": "SY",
             "alpha3": "SYR"
         },
         {
-            "country": "Taiwan, Province of China",
+            "country": "Taiwan",
             "alpha2": "TW",
             "alpha3": "TWN"
         },
@@ -1095,7 +1095,7 @@
             "alpha3": "TJK"
         },
         {
-            "country": "United Republic of Tanzania",
+            "country": "Tanzania",
             "alpha2": "TZ",
             "alpha3": "TZA"
         },
@@ -1170,12 +1170,12 @@
             "alpha3": "ARE"
         },
         {
-            "country": "United Kingdom of Great Britain and Northern Ireland",
+            "country": "United Kingdom",
             "alpha2": "GB",
             "alpha3": "GBR"
         },
         {
-            "country": "United States of America",
+            "country": "United States",
             "alpha2": "US",
             "alpha3": "USA"
         },
@@ -1200,12 +1200,12 @@
             "alpha3": "VUT"
         },
         {
-            "country": "Venezuela (Bolivarian Republic of)",
+            "country": "Venezuela",
             "alpha2": "VE",
             "alpha3": "VEN"
         },
         {
-            "country": "Viet Nam",
+            "country": "Vietnam",
             "alpha2": "VN",
             "alpha3": "VNM"
         },

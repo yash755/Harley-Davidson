@@ -22,7 +22,9 @@ def get_list(row):
 			if len(country) >= 2:
 				country[1] = country[1].replace(' ','')
 				for x in countries: 
+					x['country'] = x['country'].replace(' ','')
 					if x['country'] == country[1]:
+						print (x['country'])
 						url = "https://www.harley-davidson.com/dealerservices/services/rest/dealers/proximitySearch.json?_type=json&size=100&latlng=" + str(latlong) + "&miles=5000&locale=en_US&country=" + str(x['alpha3'])
 						
 						response = requests.get(url)
@@ -85,6 +87,7 @@ def get_list(row):
 
 
 	except Exception as e:
+						get_list(data)
 						print(e)
 					
 					
@@ -98,6 +101,7 @@ if __name__ == '__main__':
 
 	i= 0 
 	for row in reader:
+		print (row)
 		get_list(row)
 
 	ifile.close()
